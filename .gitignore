@@ -1,0 +1,19 @@
+*.o
+*.lo
+*.so
+*.so.*
+*.swp
+*.swo
+*.deb
+*.rpm
+*.gz
+.DS_Store
+CPack*
+_CPack*
+tags
+# Eclipse files and directories
+.cproject
+.project
+.settings
+# Misc
+*.log
